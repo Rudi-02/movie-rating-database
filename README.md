@@ -1,4 +1,4 @@
-# SAB Projekat - rd210107
+# SAB Projekat
 
 Domaći zadatak iz predmeta Softverski alati baza podataka (ETF Beograd, 2025/2026).
 Sistem za filmove i korisnike: ocenjivanje, žanrovi, tagovi, liste za gledanje,
